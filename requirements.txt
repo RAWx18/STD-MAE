@@ -1,6 +1,6 @@
 easy_torch==1.2.12
 easydict==1.10
-numpy==1.21.5
+numpy==1.22.4 # updated as per 21st Jan 2025
 positional_encodings==6.0.1
 scikit_learn==1.0.2
 scipy==1.7.3
@@ -10,3 +10,4 @@ timm==0.6.11
 torch==1.13.1
 torch_summary==1.4.5
 tvm==1.0.0
+tables # added as required
